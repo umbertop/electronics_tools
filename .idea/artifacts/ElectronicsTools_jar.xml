@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ElectronicsTools:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ElectronicsTools_jar</output-path>
+    <root id="archive" name="ElectronicsTools.jar">
+      <element id="module-output" name="ElectronicsTools" />
+    </root>
+  </artifact>
+</component>
